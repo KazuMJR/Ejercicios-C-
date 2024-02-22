@@ -1,0 +1,3 @@
+C:/Users/jasso/Desktop/CLyen C++/control_de_seleccion_switch/cmake-build-debug/CMakeFiles/control_de_seleccion_switch.dir
+C:/Users/jasso/Desktop/CLyen C++/control_de_seleccion_switch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jasso/Desktop/CLyen C++/control_de_seleccion_switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

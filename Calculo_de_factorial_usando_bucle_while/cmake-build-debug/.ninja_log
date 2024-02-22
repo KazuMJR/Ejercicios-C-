@@ -1,0 +1,15 @@
+# ninja log v5
+0	495	7301114760931089	CMakeFiles/Calculo_de_factorial_usando_bucle_while.dir/main.cpp.obj	7aef22898ffe7914
+497	627	7301114762215946	Calculo_de_factorial_usando_bucle_while.exe	34534a3758bf74d8
+5	471	7301115752310016	CMakeFiles/Calculo_de_factorial_usando_bucle_while.dir/main.cpp.obj	7aef22898ffe7914
+472	627	7301115753840955	Calculo_de_factorial_usando_bucle_while.exe	34534a3758bf74d8
+4	721	7302604291386334	CMakeFiles/Calculo_de_factorial_usando_bucle_while.dir/main.cpp.obj	7aef22898ffe7914
+721	971	7302604293863706	Calculo_de_factorial_usando_bucle_while.exe	34534a3758bf74d8
+3	385	7302604415700899	CMakeFiles/Calculo_de_factorial_usando_bucle_while.dir/main.cpp.obj	7aef22898ffe7914
+386	470	7302604416518486	Calculo_de_factorial_usando_bucle_while.exe	34534a3758bf74d8
+4	401	7302604760889823	CMakeFiles/Calculo_de_factorial_usando_bucle_while.dir/main.cpp.obj	7aef22898ffe7914
+401	492	7302604761760426	Calculo_de_factorial_usando_bucle_while.exe	34534a3758bf74d8
+3	437	7302605208198906	CMakeFiles/Calculo_de_factorial_usando_bucle_while.dir/main.cpp.obj	7aef22898ffe7914
+438	542	7302605209204126	Calculo_de_factorial_usando_bucle_while.exe	34534a3758bf74d8
+3	456	7302605874129755	CMakeFiles/Calculo_de_factorial_usando_bucle_while.dir/main.cpp.obj	7aef22898ffe7914
+457	556	7302605875089642	Calculo_de_factorial_usando_bucle_while.exe	34534a3758bf74d8

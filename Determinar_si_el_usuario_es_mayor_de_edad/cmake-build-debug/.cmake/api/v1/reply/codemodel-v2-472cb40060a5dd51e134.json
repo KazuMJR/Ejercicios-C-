@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Determinar_si_el_usuario_es_mayor_de_edad",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Determinar_si_el_usuario_es_mayor_de_edad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Determinar_si_el_usuario_es_mayor_de_edad-Debug-72ac2dd26edcf69d8fb8.json",
+					"name" : "Determinar_si_el_usuario_es_mayor_de_edad",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jasso/CLionProjects/Determinar_si_el_usuario_es_mayor_de_edad/cmake-build-debug",
+		"source" : "C:/Users/jasso/CLionProjects/Determinar_si_el_usuario_es_mayor_de_edad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

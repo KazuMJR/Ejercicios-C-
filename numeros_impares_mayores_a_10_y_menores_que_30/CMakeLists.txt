@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(numeros_impares_mayores_a_10_y_menores_que_30)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(numeros_impares_mayores_a_10_y_menores_que_30 main.cpp)

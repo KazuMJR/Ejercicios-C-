@@ -1,0 +1,3 @@
+C:/Users/jasso/CLionProjects/Determinar_si_el_usuario_es_mayor_de_edad/cmake-build-debug/CMakeFiles/Determinar_si_el_usuario_es_mayor_de_edad.dir
+C:/Users/jasso/CLionProjects/Determinar_si_el_usuario_es_mayor_de_edad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jasso/CLionProjects/Determinar_si_el_usuario_es_mayor_de_edad/cmake-build-debug/CMakeFiles/rebuild_cache.dir

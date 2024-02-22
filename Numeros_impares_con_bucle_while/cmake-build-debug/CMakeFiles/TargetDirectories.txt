@@ -1,0 +1,3 @@
+C:/Users/jasso/Desktop/CLyen C++/Numeros_impares_con_bucle_while/cmake-build-debug/CMakeFiles/Numeros_impares_con_bucle_while.dir
+C:/Users/jasso/Desktop/CLyen C++/Numeros_impares_con_bucle_while/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jasso/Desktop/CLyen C++/Numeros_impares_con_bucle_while/cmake-build-debug/CMakeFiles/rebuild_cache.dir
