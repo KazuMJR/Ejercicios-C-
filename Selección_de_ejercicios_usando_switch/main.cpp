@@ -75,17 +75,18 @@ int main() {
 
         case 4: cout<<"programa que pida al usuario un número y calcule su factorial utilizando un bucle while.";
 
-            cout<<"\nIngrese un numero para poder calcular su factorial"<<endl;
+    cout << "Ingrese un numero para poder calcular su factorial" << endl;
 
-            int numero2, factorial;
-            factorial = 1;
-            cin>>numero2;
+    int numero, factorial = 1;
+    cin >> numero;
 
-            for(int i=1; i<=numero2; i++){
-                factorial=factorial*i;
-            }
+    int i = 1;
+    while (i <= numero) {
+        factorial = factorial * i;
+        i++;
+    }
 
-            cout<<"\nEl factorial del numero es: "<<factorial<<endl;
+    cout << "\nEl factorial del numero es: " << factorial << endl;
             break;
 
         case 5: cout << "programa que pida al usuario un número mayor a 10 y menor que 30,  y que muestre por pantalla todos los números impares desde 1 hasta ese número utilizando un bucle for.";
