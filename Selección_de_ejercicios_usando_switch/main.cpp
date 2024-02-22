@@ -77,16 +77,17 @@ int main() {
 
     cout << "Ingrese un numero para poder calcular su factorial" << endl;
 
-    int numero, factorial = 1;
-    cin >> numero;
+            int numero2, factorial, i;
+            factorial = 1;
+            i = 1;
+            cin>>numero2;
 
-    int i = 1;
-    while (i <= numero) {
-        factorial = factorial * i;
-        i++;
-    }
+            while (i <= numero2) {
+                factorial = factorial * i;
+                i++;
+            }
 
-    cout << "\nEl factorial del numero es: " << factorial << endl;
+            cout << "\nEl factorial del numero es: " << factorial << endl;
             break;
 
         case 5: cout << "programa que pida al usuario un número mayor a 10 y menor que 30,  y que muestre por pantalla todos los números impares desde 1 hasta ese número utilizando un bucle for.";
@@ -98,9 +99,9 @@ int main() {
             cout << "\nLos numeros impares del 1 Hasta: " << Numero1 << " son:" << endl;
 
             if (Numero1 >= 10 && Numero1 <= 30) {
-                for (int i = 1; i <= Numero1; i++) {
-                    if (i % 2 != 0) {
-                        cout << i << endl;
+                for (int a = 1; a <= Numero1; a++) {
+                    if (a % 2 != 0) {
+                        cout << a << endl;
                     }
                 }
             } else {
@@ -115,12 +116,12 @@ int main() {
 
             if (Numero3 >= 10 && Numero3 <= 30) {
                 cout << "\nLos numeros impares del 1: " << " Hasta: " << Numero3 << " son:" << endl;
-                int i = 1;
-                while (i <= Numero3) {
-                    if (i % 2 != 0) {
-                        cout << i << endl;
+                int e = 1;
+                while (e <= Numero3) {
+                    if (e % 2 != 0) {
+                        cout << e << endl;
                     }
-                    i++;
+                    e++;
                 }
             } else {
                 cout << "El numero ingresado no es valido\n" << endl;
