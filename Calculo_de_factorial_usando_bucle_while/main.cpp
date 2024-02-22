@@ -4,18 +4,20 @@ using namespace std;
 
 int main() {
 
-    //Calculo de factorial usando bucle while
+    // Cálculo de factorial usando bucle while
 
-    cout<<"Ingrese un numero para poder calcular su factorial"<<endl;
+    cout << "Ingrese un numero para poder calcular su factorial" << endl;
 
     int numero, factorial = 1;
-    cin>>numero;
+    cin >> numero;
 
-    for(int i=1; i<=numero; i++){
-    factorial=factorial*i;
+    int i = 1;
+    while (i <= numero) {
+        factorial = factorial * i;
+        i++;
     }
 
-    cout<<"\nEl factorial del numero es: "<<factorial<<endl;
+    cout << "\nEl factorial del numero es: " << factorial << endl;
 
     system("pause");
     return 0;
